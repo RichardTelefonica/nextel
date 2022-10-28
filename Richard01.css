@@ -1,0 +1,57 @@
+h1{
+color:chartreuse;
+text-align: center;
+
+}
+
+.container{
+display: inline-block;
+}
+
+.centro{
+
+position: absolute; top: 40 px; width: 100%; text-align: center; display: block;
+}
+
+
+
+.fondoblanco{
+position:relative;
+background-color: lightblue;
+width: 100px;
+height: 100px;
+display:inline-block;
+}
+
+.fondoColor{
+position: relative;
+width: 100px;
+height: 100px;
+display: inline-block;
+color: #fff
+}
+
+.fc1{ background-color:lightblue; }
+.fc2{ background-color:  lightblue;}
+.fc3{ background-color: lightblue;}
+.fc4{ background-color: lightblue;}
+
+
+h2{
+    color:blue;
+}
+
+h3{
+    color:bisque;
+    text-align:center;
+    font-size: medium;
+}
+
+
+#Whatsapp{
+color: orangered;
+text-align: center;
+width: 100px;
+height: 100px;
+}
+
